@@ -1118,3 +1118,16 @@ For this next part of the analysis, I want to see which stats are correlated wit
 Here's the correlation matrix vizualization: 
 
 ![Figure](/assets/images/correlationmatrix.png)
+
+We can see from both the vizulation and the correlation talbe that: 
+
+1. Field goal makes and free throw attempts have a strong, positive linear relationship. This could be because when players are making shots, opposing teams feel it's best to rather foul them. Not only that, but strategies like hack-a-Shaq where players with low FT% but a high FG% will be forced to shoot free throws to reduce the chances of scoring 2 points. 
+2. Minutes and points per game have a moderate, positive linear relationship (surprisingly). This is surpring because you would think the correlation would be a bit stronger, considering points is how you win the game. However, this also shows that hustle points such as defense and rebounds play a big part in getting playing time. 
+3. Offensive rebounds and blocks have a strong, positive linear relationship. This could be due to the amount of tall players in the center position that get a height advantage in the paint. 
+4. Field goal % and offensive rebounds have a strong, positive linear relationship. This could also be due to players such as Rudy Gobert who shoots a minimal amount of shots but also gets a lot of offensive rebounds because of his height and paint presence. 
+5. Three point % and three point makes have a moderate, positive linear relationship, whereas field goal % and field goal makes have a very weak, positive linear relationship. This means that there are a lot of players in the NBA that shoot more than they should due to the mass amount of shots being missed.
+
+# Comparing statistics of the top 10 players of each decade
+One big trend analysts have seen in the nba is that the 3 point shot has become more involved thanks to Steph Curry and other shooters that have shown dominance in their performances. Not only that, but analysts and media heads have also been talking about how players are "load managing" more often to save their energy for the playofss. Another big thing is that referee rule changes have made it easier to score, hence why efficiency has gone up for players. We can answer these questions using a simple bar graph to compare the top 10 players of each decade. 
+
+3 point % comparison of top 10 players of each decade: 
