@@ -7,19 +7,32 @@ image: /assets/images/semesterprojectheaderimage.png
 --- 
 
 # Introduction 
-As a lifelong NBA fan, I've always had an eye for box score stats and looking up the statistics of my favorite NBA players. As an avid NBA box score checker, I've seen that throughout the years of looking at NBA analytics, there are new variables and statistics that measure a player's performance every couple or so years. For example, FiveThirtyEight has came out with a new NBA performance metric called RAPTOR, a rating that measures performance based on the number of points a player contributes to team offense and team defense per 100 possessions, relative to a league-average player. There has also been other metrics such as win shares, true shooting, etc. that have made me realized how easy it is to interpret and collect data from basketball games. For this project, I have gathered data of official league leaders from each decade starting from 2000-2020. League leaders are based on this metric right [here](https://www.nba.com/stats/help/statminimums).
+As a lifelong NBA fan, I've always had an eye for box score stats and looking up the statistics of my favorite NBA players. As an avid NBA box score checker, I've seen that throughout the years of looking at NBA analytics, there are new variables and statistics that measure a player's performance every couple or so years. For example, FiveThirtyEight has came out with a new NBA performance metric called RAPTOR, a rating that measures performance based on the number of points a player contributes to team offense and team defense per 100 possessions, relative to a league-average player. There has also been other metrics such as win shares, true shooting, etc. that have made me realized how easy it is to interpret and collect data from basketball games. For this project, I have gathered data of official league leaders from each decade starting from 2000-2020. League leaders are based on this metric right [here.](https://www.nba.com/stats/help/statminimums)
 
 # EDA 
 While completing this project, I had a number of questions that I had in mind when looking at NBA league leader statistics. Through this section I will take you through the questions I as well as many others have and the visuals I've generated that can hopefully answer those questions.
 
 # Numerical data distributions
-I've created a funciton in python that has generated a histogram of every numerical variable we have in our data. In other words, this shows the distribution of every numerical value in our dataset for NBA Official League Leaders in each decade starting from 2000. 
+I've created a funciton in python that has generated a histogram of every numerical variable we have in our data. In other words, this shows the distribution of every numerical value in our dataset for NBA Official League Leaders in each decade starting from 2000. This table was created to represent statistical summaries for various basketball-related numeric variables. Each row corresponds to a different statistical measure or property for a specific column in a dataset. I've excluded the ranks from the dataset simply because there is not much of a point to compare the distribution of unique rankings, as the rankings will generally be uniform. 
 
 ![Figure](/assets/images/minutesplayed.png)
 ![Figure](/assets/images/gp.png)
-
-
-
+![Figure](/assets/images/fgm.png)
+![Figure](/assets/images/fg_pct.png)
+![Figure](/assets/images/fg3m.png)
+![Figure](/assets/images/fg3a.png)
+![Figure](/assets/images/fg3_pct.png)
+![Figure](/assets/images/ftm.png)
+![Figure](/assets/images/fta.png)
+![Figure](/assets/images/ft_pct.png)
+![Figure](/assets/images/oreb.png)
+![Figure](/assets/images/dreb.png)
+![Figure](/assets/images/ast.png)
+![Figure](/assets/images/stl.png)
+![Figure](/assets/images/blk.png)
+![Figure](/assets/images/tov.png)
+![Figure](/assets/images/pts.png)
+![Figure](/assets/images/eff.png)
 
 <div>
 <style scoped>
