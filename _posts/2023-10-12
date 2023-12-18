@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "How Dictionaries Work Using NBA Themed Data"
+author: "Adam Gao"
+description: "This is a basic NBA themed tutorial of how create a dictionary."
+image: "https://images.unsplash.com/photo-1612151387614-0d29a04ff5f3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+--- 
+
+This tutorial will cover the basic characteristics of Python dictionaries using NBA themed statistics. Once you have finished this blog, you should have a good sense of how dictionaries work and why they can be used. Dictionaries in python are very flexible due to the easibility of referencing the data in dictionaries. Let's start off by creating and defining a dictionary. 
+
+Dictionaries can be defined by enclosing a comma-separated list of key value pairs in curly braces "{}". A colon ":" separates each key from its respective value. 
+
+<strong> Python Code Input>>> </strong> <br>
+Dictionary_example = { <br>
+                key : value, <br>
+                key : value, <br>
+                key : value, <br>
+                key : value  <br>
+}
+
+<br>
+
+Now lets associate this dictionary using NBA themed data:
+
+<strong> Python Code Input>>> </strong> <br>
+NBA_team = { <br>
+        'Los Angeles' : 'Lakers', <br>
+        'Boston' : 'Celtics', <br>
+        'Milwaukee' : 'Bucks', <br>
+        'Denver' : 'Nuggets' <br>
+}
+
+<br>
+
+As we can see here, for this dictionary example, the city that  is associated with the team is the "key", whereas the team name is the "value". Another more in depth example of this would be that Los Angeles is the "key" for the Lakers which is the respective "value" (Quick note: make sure there are quotes around your keys and values in the dictionaries that you make).
+
+You can also create a dictionary using the built in dict() function! The argument to dict() should be a list of key-value pairs. When using dict(), we will use square brackets "[]" instead of the curly ones "{}". Here's another way of doing this: 
+
+<strong> Python Code Input>>> </strong><br>
+NBA_team = dict([ <br>
+        ('Los Angeles', 'Lakers'), <br>
+        ('Boston', 'Celtics'),   
+        ('Milwaukee', 'Bucks'),  
+        ('Denver' , 'Nuggets') <br>
+])
+
+<br>
+
+There really is no big difference between the two ways of creating the dictionary other than the way it's typed out (or the so-called "syntax"). It's all up to personal preference! 
+
+Next up we will learn how to access a dictionary. Lets first make a dictionary that contains the stats of a certain basketball player! I will be making my dictionary without the dict() function, but code along with this except with a player of your choice! I will use my favorite player, Austin Reaves.
+
+<strong> Python Code Input>>> </strong><br>
+Austin_Reaves_stats = { <br>
+        'Team' : 'Los Angeles Lakers', <br>
+        'PPG' : '13.0', <br>
+        'RPG' : '3.0', <br>
+        'APG' : '3.4' <br>
+}
+
+<br>
+
+As we can see here, I made a dictionary that contains data of his points per game, rebounds per game, and assists per game. These stats can be founnd in ESPN or Basketball-Reference. What we want to do now is access or retrieve the value using the key. For example, if we want to get data on Austin Reave's points per game, we will simply do this:
+
+<strong> Python Code Input >>> </strong> <br>
+Austin_Reaves_stats['PPG']
+<br>
+
+<strong> Python Code Output >>> </strong> <br>
+'13.0'
+<br>
+<br>
+The above code shows how we were able to retrieve his points per game just by referencing the key, which is 'PPG' in this case. Pretty easy huh? Same can be done for his team, rebounds per game, and his assists per game. Lets do another example, but except this time we will get rebounds per game. 
+<br>
+
+<strong> Python Code Input >>> </strong><br>
+Austin_Reaves_stats['RPG']
+<br>
+
+<strong> Python Code Output >>> </strong> <br>
+'3.4'
+<br>
+
+This is great! You've just learned how to retrieve data from dictionaries by retyping what you've already made and using square brakcets. Now another thing we can also do is access the dictionary values. Lets make another dictionary using the positions and the respective players that play them. LeBron James has recently recruited players to join Team USA for the Olympics. Lets make a dictionary of the positions for each respective player!
+
+<strong> Python code Input >>> </strong> <br>
+              Team_USA = { <br>
+                              'Point Guard' : 'Stephen Curry', <br>
+                              'Shooting Guard' : 'Devin Booker', <br>
+                              'Small Forward' : 'LeBron James',<br>
+                              'Power Forward' : 'Kevin Durant'<br>
+              }
+<br>
+
+Looks like we have all the positions covered except for the Center position! Don't worry though, we can fix this with a simple line of code. Recently, Joel Embiid has mentioned that he wants to represent Team USA for the olympics, so lets slide him on the dictionary. 
+
+<strong> Python code Input >>> </strong> <br>
+
+                Team_USA['Center'] = 'Joel Embiid'
+<br>
+
+
+Right above is the code we used to add Joel Embiid on Team USA. Lets print out the dictionary and see if it has updated! 
+<br>
+<br>
+<strong> Python code Input >>> </strong> <br>
+
+                Team_USA
+<br>
+
+<strong> Python code Output >>> </strong> <br>
+
+                'Point Guard' : 'Stephen Curry', 
+                'Shooting Guard' : 'Devin Booker', 
+                'Small Forward' : 'LeBron James',
+                'Power Forward' : 'Kevin Durant', 
+                'Center' : 'Joel Embiid'
+<br>
+
+See how easy that was? Now our dictionary has solved Team USA's center problem and now we might have arguably one of the greatest teams of all time. Thanks LeBron! 
+<br>
+<br>
+You have officially learned how to create your own dictionary, how to obtain its values, and how to add keys in a dictionary. I hope this tutorial helps you get started and sparks your interest on exploring the field of data analytics with Python. 
