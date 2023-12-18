@@ -1110,7 +1110,11 @@ For this next part of the analysis, I want to see which stats are correlated wit
       <td>1.000000</td>
     </tr>
   </tbody>
+
 </table>
 <p>26 rows × 26 columns</p>
 </div>
 
+Here's the correlation matrix vizualization: 
+
+![Figure](/assets/images/correlationmatrix.png)
