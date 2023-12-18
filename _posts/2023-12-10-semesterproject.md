@@ -45,7 +45,7 @@ I've created a funciton in python that has generated a histogram of every numeri
     }
 
     .dataframe thead th {
-        text-align: right;
+        text-align: middle;
     }
 </style>
 <table border="1" class="dataframe">
