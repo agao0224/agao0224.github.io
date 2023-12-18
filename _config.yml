@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Blog Title 
-email: author_email@email.com 
-description: "Change the description so that it describes your blog" 
-baseurl: "/stat386-blog-theme" # the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://source.unsplash.com/random
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+email: adamfg@byu.edu 
+description: "My 386 Blog" 
+baseurl: "" # the name of the repository 
+url: "https://agao0224.github.io" #  change this to "https://<your-github-username>.github.io"
+image: /assets/images/blogheader.jpg
+author: Adam Gao
+copyright: AG # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
         <a href="https://source.unsplash.com/random" target="_blank"> Unsplash</a>. 
         The default image for the blog post is from
@@ -35,16 +35,7 @@ footer_description: 'The default image for the site header is a random image fro
 
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
-dribbble_username: 
-facebook_username: 386student
-flickr_username:
-instagram_username: 
-pinterest_username:
-youtube_username: 
-googleplus_username: 386student
+github_username:  agao0224
 
 plugins:
   - jekyll-feed
