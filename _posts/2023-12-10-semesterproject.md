@@ -15,7 +15,10 @@ While completing this project, I had a number of questions that I had in mind wh
 # Numerical data distributions
 I've created a funciton in python that has generated a histogram of every numerical variable we have in our data. In other words, this shows the distribution of every numerical value in our dataset for NBA Official League Leaders in each decade starting from 2000. 
 
-![Figure](/assets/images/minutesplayed.png)
+![Figure](/assets/images/minutesplayed.png)'
+![Figure](/assets/images/gp.png)'
+
+
 
 
 <div>
