@@ -1131,4 +1131,4 @@ We can see from both the vizulation and the correlation talbe that:
 One big trend analysts have seen in the nba is that the 3 point shot has become more involved thanks to Steph Curry and other shooters that have shown dominance in their performances. Not only that, but analysts and media heads have also been talking about how players are "load managing" more often to save their energy for the playofss. Another big thing is that referee rule changes have made it easier to score, hence why efficiency has gone up for players. We can answer these questions using a simple bar graph to compare the top 10 players of each decade. 
 
 How has 3 point % compare with the top 10 NBA players in each decade?
-![Figure](/assets/images/average3pm.png)
+![Figure](/assets/images/average3pt%.png)
