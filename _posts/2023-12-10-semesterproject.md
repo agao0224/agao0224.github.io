@@ -1156,5 +1156,14 @@ Look at that! The amount of 3 point shots made per game has nearly doubled in 20
 
 ![Figure](/assets/images/top10playersminutes.png)
 
+<br>
+
+As we can see here, there is quite a drop off of minutes per game in each decade, so analysts may be onto something. Lets see if this hinders any player statistics. 
+
+<br>
+
+![Figure](/assets/images/top10playersppg.png)
+
+
 
 
