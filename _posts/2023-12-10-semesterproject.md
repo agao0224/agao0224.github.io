@@ -1228,4 +1228,6 @@ In conclusion, this analysis gives us a comprehensive visual of NBA League Leade
 
 If you would like to explore the data further, head to my [streamlit app](https://semesterprojecapp-hrdfz4vc4t7up45unsew7p.streamlit.app/)! 
 
+If you would like to see how these visualizations were created, visit [my repository](https://github.com/agao0224/agao0224.github.io)
+
 
