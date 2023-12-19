@@ -19,6 +19,7 @@ The NBA has an official website where they have league leaders. League leaders a
 From there you have your request URL! Now onto the coding.
 
 <br>
+
 Make sure these packages are imported
 ```
 import pandas as pd
@@ -26,7 +27,7 @@ import requests
 pd.set_option('display.max_columns', None)
 import time
 import numpy as np
-
+```
 
 
 Create a url variable and set it equal to your request URL:
