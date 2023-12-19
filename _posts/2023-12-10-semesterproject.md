@@ -1201,7 +1201,12 @@ We can see here that despite playing less minutes and less games, players have a
 So the NBA must be doing something right by making the rules easier for players to score and crank their stats up. In the meantime, we will see if there will be a drop off in NBA ratings and ticket sales in the next decade when players continue to get better and make high volume scoring figures desensitizing. 
 
 # Conclusion
-In conclusion, this analysis gives us a comprehensive visual of NBA League Leaders and their statistical performance, offering valuable insights into the variables that could potentially affect a players performance. Analyzing the statistical evolution of top 10 players over time has shown how the game has changed over time and identifies patterns that we can observe in the modern NBA.
+In conclusion, this analysis gives us a comprehensive visual of NBA League Leaders and their statistical performance, offering valuable insights into the variables that could potentially affect a players performance. Analyzing the statistical evolution of top 10 players over time has shown how the game has changed over time and identifies patterns that we can observe in the modern NBA. In this analysis, we have discovered that: 
+
+* The average of every NBA statistic from league leaders  
+* Which NBA statistics are correlated with one another
+* How the top players in the NBA have changed the game of basketball
+* NBA players have learned how to efficiently play the game of basketball at a higher level than ever
 
 If you would like to explore the data further, head to my [streamlit app](https://semesterprojecapp-hrdfz4vc4t7up45unsew7p.streamlit.app/)! 
 
