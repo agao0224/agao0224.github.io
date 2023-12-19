@@ -1166,5 +1166,7 @@ As we can see here, there is quite a drop off of minutes per game in each decade
 
 ![Figure](/assets/images/top10averageassists.png)
 
+![Figure](/assets/images/top10averagerebounds.png)
+
 
 
