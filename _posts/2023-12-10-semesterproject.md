@@ -1164,7 +1164,7 @@ Look at that! The amount of 3 point shots made per game has nearly doubled in 20
 
 <br>
 
-As we can see here, there is quite a drop off of minutes per game in each decade, so analysts may be onto something. Lets see if this hinders any player statistics. 
+As we can see here, there is quite a drop off of minutes per game and games per season in each decade, so analysts may be onto something. Lets see if this hinders any player statistics. 
 
 <br>
 
@@ -1182,5 +1182,13 @@ As we can see here, there is quite a drop off of minutes per game in each decade
 
 ![Figure](/assets/images/top10playerseff.png)
 
+<br>
+
+We can see here that despite playing less minutes and less games, players have actually gotten BETTER throughout each decade. Why is that exactly? This could be due to the evolution of training, increased competition, advancement in analytics, innovative technology, rule changes, and a deeper understanding of the game. 
+
+#Conclusion
+In conclusion, this analysis gives us a comprehensive visual of NBA League Leaders and their statistical performance, offering valuable insights into the variables that could potentially affect a players performance. Analyzing the statistical evolution of top 10 players over time has shown how the game has changed over time and identifies patterns that we can observe in the modern NBA.
+
+If you would like to explore the data further, head to my [streamlit app](https://semesterprojecapp-hrdfz4vc4t7up45unsew7p.streamlit.app/)! 
 
 
