@@ -1168,5 +1168,13 @@ As we can see here, there is quite a drop off of minutes per game in each decade
 
 ![Figure](/assets/images/top10averagerebounds.png)
 
+<br>
+
+<strong>4. How has efficiency changed for the top 10 ranked players of each decade? [How Efficiency is Calculated](https://captaincalculator.com/sports/basketball/efficiency/)</strong>
+
+<br>
+
+![Figure](/assets/images/top10playerseff.png)
+
 
 
