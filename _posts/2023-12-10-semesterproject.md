@@ -1138,6 +1138,8 @@ One big trend analysts have seen in the nba is that the 3 point shot has become 
 
 Looks like the 3 point percentage between 2010 and 2020 haven't changed much. Lets try something else. 
 
+<br>
+
 <strong>2. How does 3 point field goal makes compare with the top 10 NBA players in each decade?</strong>
 
 <br>
@@ -1146,6 +1148,13 @@ Looks like the 3 point percentage between 2010 and 2020 haven't changed much. Le
 
 Look at that! The amount of 3 point shots made per game has nearly doubled in 2020 compared to each decade. This isn't just because of Steph Curry. This is due to the 3 point shot being a huge arsenal for being a top 10 ranked player in the league. 
 
+<br>
+
+<strong>Now, what is the average minutes per game for the top 10 players in each decade?</strong>
+
+<br>
+
+![Figure](/assets/images/top10playersminutes.png)
 
 
 
