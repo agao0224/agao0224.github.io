@@ -1150,11 +1150,17 @@ Look at that! The amount of 3 point shots made per game has nearly doubled in 20
 
 <br>
 
-<strong>3. Now, what is the average minutes per game for the top 10 players in each decade?</strong>
+<strong>3a. Now, what is the average minutes per game for the top 10 players in each decade?</strong>
 
 <br>
 
 ![Figure](/assets/images/top10playersminutes.png)
+
+<br>
+
+<strong>3b. Now what about games played?</strong>
+
+![Figure](/assets/images/top10playersgp.png)
 
 <br>
 
