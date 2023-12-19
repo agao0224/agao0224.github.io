@@ -33,13 +33,14 @@ Create a url variable and set it equal to your request URL:
 
 ```
 test_url = 'https://stats.nba.com/stats/leagueLeaders?LeagueID=00&PerMode=PerGame&Scope=S&Season=2021-22&SeasonType=Regular%20Season&StatCategory=PTS'
-
+```
 
 Use the test_url variable to put into the request.get(url = ).json() function so that the JSON will convert to a dictionary. 
 
+
 ```
 r = requests.get(url = test_url).json()
-
+```
 
 
 
