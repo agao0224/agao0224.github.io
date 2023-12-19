@@ -1164,7 +1164,7 @@ Look at that! The amount of 3 point shots made per game has nearly doubled in 20
 
 <br>
 
-As we can see here, there is quite a drop off of minutes per game and games per season in each decade, so analysts may be onto something. Lets see if this hinders any player statistics. 
+As we can see here, there is quite a drop off of minutes per game and games per season in each decade, so the analysts may be onto something. This could negatively affect fans that paid hundreds of dollars to see their favorite players play, and could also cause a drop off in revenue. Lets see if this hinders any player statistics. 
 
 <br>
 
@@ -1184,9 +1184,11 @@ As we can see here, there is quite a drop off of minutes per game and games per 
 
 <br>
 
-We can see here that despite playing less minutes and less games, players have actually gotten BETTER throughout each decade. Why is that exactly? This could be due to the evolution of training, increased competition, advancement in analytics, innovative technology, rule changes, and a deeper understanding of the game. 
+We can see here that despite playing less minutes and less games, players have actually gotten BETTER throughout each decade. Why is that exactly? This could be due to the evolution of training, increased competition, advancement in analytics, innovative technology, rule changes, and a deeper understanding of the game. In other words, efficiency has taken place in the modern NBA and we may continue to see a rise of competition in NBA talent, if there wasn't enough already. However, is this even a good sign? Have fans become too numb of multiple 30 and 40 point games, to where they may not even find it amusing anymore? According to this visualization, that's not the case: 
+![Figure](/assets/images/nbaticketsales.PNG)
 
-#Conclusion
+
+# Conclusion
 In conclusion, this analysis gives us a comprehensive visual of NBA League Leaders and their statistical performance, offering valuable insights into the variables that could potentially affect a players performance. Analyzing the statistical evolution of top 10 players over time has shown how the game has changed over time and identifies patterns that we can observe in the modern NBA.
 
 If you would like to explore the data further, head to my [streamlit app](https://semesterprojecapp-hrdfz4vc4t7up45unsew7p.streamlit.app/)! 
