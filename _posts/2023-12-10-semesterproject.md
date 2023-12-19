@@ -7,7 +7,18 @@ image: /assets/images/semesterprojectheaderimage.png
 --- 
 
 # Introduction 
-As a lifelong NBA fan, I've always had an eye for box score stats and looking up the statistics of my favorite NBA players. As an avid NBA box score checker, I've seen that throughout the years of looking at NBA analytics, there are new variables and statistics that measure a player's performance every couple or so years. For example, FiveThirtyEight has came out with a new NBA performance metric called RAPTOR, a rating that measures performance based on the number of points a player contributes to team offense and team defense per 100 possessions, relative to a league-average player. There has also been other metrics such as win shares, true shooting, etc. that have made me realized how easy it is to interpret and collect data from basketball games. For this project, I have gathered data of official league leaders from the beginning of each decade starting from 2000-2020. [Here's how I collected the data.](https://agao0224.github.io/2023/12/10/datacollectionprocess.html) League leaders are based on this metric right [here.](https://www.nba.com/stats/help/statminimums)
+As a lifelong NBA fan, I've always had an eye for box score stats and looking up the statistics of my favorite NBA players. As an avid NBA box score checker, I've seen that throughout the years of looking at NBA analytics, there are new variables and statistics that measure a player's performance every couple or so years. For example, FiveThirtyEight has came out with a new NBA performance metric called RAPTOR, a rating that measures performance based on the number of points a player contributes to team offense and team defense per 100 possessions, relative to a league-average player. There has also been other metrics such as win shares, true shooting, etc. that have made me realized how easy it is to interpret and collect data from basketball games. For this project, I have gathered data of official league leaders from the beginning of each decade starting from 2000-2020. [Here's how I collected the data.](https://agao0224.github.io/2023/12/10/datacollectionprocess.html) League leaders are based on these metrics: 
+
+<strong>For a player to qualify as a league leader</strong>:
+
+<strong>Scoring & Rebounds</strong>: They need to play in at least 70% of their team's games (which would be 58 out of 82 games in a regular season).
+<strong>Field Goal Percentage</strong>: They must make a minimum of 300 field goals.
+<strong>Free Throw Percentage</strong>: They need to make at least 125 free throws.
+<strong>Three-Point Percentage</strong>: They should make a minimum of 82 three-point field goals.
+<strong>Assists, Steals, Blocked Shots, Minutes</strong>: For each of these categories, the player needs to play in 70% of their team's games.
+<strong>Assist-to-Turnover Ratio</strong>: They need to achieve at least 200 assists.
+<strong>Steal-to-Turnover Ratio</strong>: They should have a minimum of 82 steals.
+Meeting these criteria suggests a certain level of consistency and performance in various aspects of the game over the course of a season.
 
 # EDA 
 While completing this project, I had a number of questions that I had in mind when looking at NBA league leader statistics. Through this section I will take you through the questions I as well as many others have and the visuals I've generated that can hopefully answer those questions.
