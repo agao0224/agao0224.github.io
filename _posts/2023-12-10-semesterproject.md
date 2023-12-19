@@ -15,6 +15,17 @@ While completing this project, I had a number of questions that I had in mind wh
 # Numerical data distributions
 I've created a funciton in python that has generated a histogram of every numerical variable we have in our data. In other words, this shows the distribution of every numerical value in our dataset for NBA Official League Leaders in each decade starting from 2000. This table was created to represent statistical summaries for various basketball-related numeric variables. Each row corresponds to a different statistical measure or property for a specific column in a dataset. I've excluded the ranks from the dataset simply because there is not much of a point to compare the distribution of unique rankings, as the rankings will generally be uniform. 
 
+<br>
+<strong>Lets ask ourselves some questions really fast:</strong>
+
+1. What's the average points per game from offical league leaders?
+2. What's the average amount of rebounds per game? 
+3. What's the average amount of assists per game?
+4. What is the common most amount of games played per season?
+5. What is the average amount of minutes per game? 
+
+<br>
+
 ![Figure](/assets/images/minutesplayed.png)
 ![Figure](/assets/images/gp.png)
 ![Figure](/assets/images/fgm.png)
