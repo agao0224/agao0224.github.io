@@ -12,12 +12,19 @@ As a lifelong NBA fan, I've always had an eye for box score stats and looking up
 <strong>For a player to qualify as a league leader</strong>:
 
 <strong>Scoring & Rebounds</strong>: They need to play in at least 70% of their team's games (which would be 58 out of 82 games in a regular season).
+
 <strong>Field Goal Percentage</strong>: They must make a minimum of 300 field goals.
+
 <strong>Free Throw Percentage</strong>: They need to make at least 125 free throws.
+
 <strong>Three-Point Percentage</strong>: They should make a minimum of 82 three-point field goals.
+
 <strong>Assists, Steals, Blocked Shots, Minutes</strong>: For each of these categories, the player needs to play in 70% of their team's games.
+
 <strong>Assist-to-Turnover Ratio</strong>: They need to achieve at least 200 assists.
+
 <strong>Steal-to-Turnover Ratio</strong>: They should have a minimum of 82 steals.
+
 Meeting these criteria suggests a certain level of consistency and performance in various aspects of the game over the course of a season.
 
 # EDA 
