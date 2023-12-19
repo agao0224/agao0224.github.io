@@ -15,6 +15,7 @@ The NBA has an official website where they have league leaders. League leaders a
 2. Clicked over on the network tag of the insepct element feature.
 3. Click on the top link of the name heading to open the request URL
 <br>
+
 From there you have your request URL! Now onto the coding.
 
 <br>
@@ -28,16 +29,14 @@ import numpy as np
 
 ```
 
-<br>
-
 Create a url variable and set it equal to your request URL:
 
 ```
 test_url = 'https://stats.nba.com/stats/leagueLeaders?LeagueID=00&PerMode=PerGame&Scope=S&Season=2021-22&SeasonType=Regular%20Season&StatCategory=PTS'
-
 ```
 
 Use the test_url variable to put into the request.get(url = ).json() function so that the JSON will convert to a dictionary. 
+
 ```
 r = requests.get(url = test_url).json()
 ```
