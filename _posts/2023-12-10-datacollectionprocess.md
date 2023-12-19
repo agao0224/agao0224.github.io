@@ -12,12 +12,12 @@ My overall objective for this project is to see what statistics correlate with o
 The NBA has an official website where they have league leaders. League leaders are determined by this metric given by the offical NBA [here](https://www.nba.com/stats/help/statminimums). I found [this](https://www.nba.com/stats/leaders) website to collect my data through the offical NBA API. What I did was 
 <br>
 1. Filter it to a season of 2020 (or 2010 or 2000, whichever you decide to start with)
-![Figure](/assets/images/year.png)
+![Figure](/assets/images/year.PNG)
 3. Inspect the page (or control + shift + c)
 4. Clicked over on the network tag of the insepct element feature.
-![Figure](/assets/images/inspectelement.png)
+![Figure](/assets/images/inspectelement.PNG)
 5. Click on the top link of the name heading to open the request URL
-![Figure](/assets/images/apitutorial.png)
+![Figure](/assets/images/apitutorial.PNG)
 <br>
 
 From there you have your request URL! Now onto the coding.
