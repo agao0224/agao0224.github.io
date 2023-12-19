@@ -42,7 +42,12 @@ Use the test_url variable to put into the request.get(url = ).json() function so
 ```
 r = requests.get(url = test_url).json()
 ```
-
-
-
-
+Create the column names for the upcoming dataframe. 
+```
+table_headers = r['resultSet']['headers']
+```
+Convert the table_headers into a dataframe using ['rowSet'] instead of ['headers']
+```
+df = pd.DataFrame(r['resultSet']['rowSet'], columns = table_headers)
+df
+```
